@@ -14,6 +14,7 @@
 		84ECC47A1A3FCD1400375A10 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84ECC4791A3FCD1400375A10 /* Images.xcassets */; };
 		84ECC47D1A3FCD1400375A10 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84ECC47B1A3FCD1400375A10 /* LaunchScreen.xib */; };
 		84ECC4891A3FCD1400375A10 /* GesturesExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ECC4881A3FCD1400375A10 /* GesturesExampleTests.m */; };
+		84ECC4931A3FCF7F00375A10 /* Luigi_Image.png in Resources */ = {isa = PBXBuildFile; fileRef = 84ECC4921A3FCF7F00375A10 /* Luigi_Image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		84ECC4821A3FCD1400375A10 /* GesturesExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GesturesExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84ECC4871A3FCD1400375A10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84ECC4881A3FCD1400375A10 /* GesturesExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GesturesExampleTests.m; sourceTree = "<group>"; };
+		84ECC4921A3FCF7F00375A10 /* Luigi_Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Luigi_Image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		84ECC46B1A3FCD1400375A10 /* GesturesExample */ = {
 			isa = PBXGroup;
 			children = (
+				84ECC4921A3FCF7F00375A10 /* Luigi_Image.png */,
 				84ECC4701A3FCD1400375A10 /* AppDelegate.h */,
 				84ECC4711A3FCD1400375A10 /* AppDelegate.m */,
 				84ECC4731A3FCD1400375A10 /* ViewController.h */,
@@ -201,6 +204,7 @@
 			files = (
 				84ECC4781A3FCD1400375A10 /* Main.storyboard in Resources */,
 				84ECC47D1A3FCD1400375A10 /* LaunchScreen.xib in Resources */,
+				84ECC4931A3FCF7F00375A10 /* Luigi_Image.png in Resources */,
 				84ECC47A1A3FCD1400375A10 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

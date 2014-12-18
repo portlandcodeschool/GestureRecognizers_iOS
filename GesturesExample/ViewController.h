@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property UIImageView *luigi_image;
+@property CGPoint currentPosition;
 
 @end
 
